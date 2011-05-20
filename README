@@ -1,6 +1,10 @@
-                            *** autoupd ***
+                           *** autoupd ***
                 Automated linux client management.
 
 autoupd is a suite of some nice little GPL-licensed scripts which are designed
 to make linux integration in a mid-size computer networks more comfortable.
 
+Support and bug filing: <https://github.com/fxjung/autoupd>
+                        <felix.jung@wilhelm-gym.net>
+
+Released under GPL v3.
